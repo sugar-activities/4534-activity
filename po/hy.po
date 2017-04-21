@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-17 00:31-0500\n"
+"PO-Revision-Date: 2012-02-08 07:21+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "SimpleGraph"
+msgstr ""
+
+#: activity.py:150
+#, fuzzy
+msgid "Save as image"
+msgstr "Պահել որպես պատկեր"
+
+#: activity.py:178
+msgid "Add a value"
+msgstr ""
+
+#: activity.py:184
+msgid "Remove the selected value"
+msgstr ""
+
+#: activity.py:195
+msgid "Vertical Bar Chart"
+msgstr ""
+
+#: activity.py:203
+msgid "Horizontal Bar Chart"
+msgstr ""
+
+#: activity.py:210
+msgid "Line Chart"
+msgstr ""
+
+#: activity.py:217
+msgid "Pie Chart"
+msgstr ""
+
+#: activity.py:238
+msgid "Chart Color"
+msgstr ""
+
+#: activity.py:244
+msgid "Line Color"
+msgstr ""
+
+#: activity.py:259
+msgid "Horizontal label..."
+msgstr ""
+
+#: activity.py:273
+msgid "Vertical label..."
+msgstr ""
+
+#: activity.py:288
+msgid "Fullscreen"
+msgstr "Էկրանի չափով"
+
+#: activity.py:473
+msgid "Invalid object"
+msgstr ""
+
+#: activity.py:475
+#, python-format
+msgid "The selected object must be a %s file"
+msgstr ""
+
+#: activity.py:478 activity.py:714
+msgid "Ok"
+msgstr "OK"
+
+#: activity.py:510 readers.py:55
+msgid "StopWatch"
+msgstr ""
+
+#: activity.py:522
+msgid "Measure"
+msgstr ""
+
+#: activity.py:633
+#, fuzzy
+msgid "Label"
+msgstr "պիտակ"
+
+#: activity.py:644
+#, fuzzy
+msgid "Value"
+msgstr "արժեքը"
+
+#: activity.py:709
+msgid "Invalid Value"
+msgstr ""
+
+#: activity.py:711
+msgid "The value must be a number (integer or decimal)"
+msgstr ""
+
+#: readers.py:34
+msgid "Time"
+msgstr ""
+
+#: readers.py:44
+msgid "Mark"
+msgstr ""
+
+#: readers.py:111
+#, fuzzy
+msgid "Values"
+msgstr "արժեքը"
+
+#: readers.py:112
+msgid "Samples"
+msgstr ""
